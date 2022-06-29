@@ -4,12 +4,6 @@ import classes from "../styles/Projects.module.css";
 
 const projects = [
   {
-    href: "https://derbylabourparty.org.uk/",
-    title: "Derby Labour Party",
-    subtitle:
-      "it's an introduction website for Derby Labour Party, A branch of Labour Party, One of the major political party of UK, soon to be launch as their site.",
-  },
-  {
     href: "https://besttoolsforstartups.com/",
     title: "Best Tools for Startups",
     subtitle: "A website which deals with IT startup softwares from Appsumo",
@@ -24,6 +18,36 @@ const projects = [
     href: "https://ecomarinebd.com/",
     title: "Eco Marine",
     subtitle: "A website for cruise tourism business located in Dhaka",
+  },
+  {
+    href: "https://derbylabourparty.org.uk/",
+    title: "Derby Labour Party",
+    subtitle:
+      "it's an introduction website for Derby Labour Party, A branch of Labour Party, One of the major political party of UK, soon to be launch as their site.",
+  },
+  {
+    href: "https://artistrybysiyah.art/",
+    title: "Artistry By Siyah",
+    subtitle:
+      "This website was designed and developed for an individual who runs a page that sales self made artistic products",
+  },
+  {
+    href: "http://beauty1.webtalkee.art/",
+    title: "Budget Beauty Shop",
+    subtitle:
+      "This website was designed and developed for an individual who runs a business that sales beauty products",
+  },
+  {
+    href: "http://ecom2.webtalkee.art/",
+    title: "Aarong",
+    subtitle:
+      "This website was designed and developed for a company who runs multi product online store",
+  },
+  {
+    href: "http://ecom1.webtalkee.art/",
+    title: "Lucrative Garments",
+    subtitle:
+      "This website was designed and developed for a Garments factory who sells garment related products",
   },
   {
     href: "https://sundarbanpestcontrol.com/",

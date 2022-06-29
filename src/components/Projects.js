@@ -4,6 +4,11 @@ import classes from "../styles/Projects.module.css";
 
 const projects = [
   {
+    href: "https://taraaz.com.bd/",
+    title: "Taraaz BD",
+    subtitle: "A website which sells Food Suppliment Products and other items",
+  },
+  {
     href: "https://besttoolsforstartups.com/",
     title: "Best Tools for Startups",
     subtitle: "A website which deals with IT startup softwares from Appsumo",
@@ -50,16 +55,21 @@ const projects = [
       "This website was designed and developed for a Garments factory who sells garment related products",
   },
   {
-    href: "https://sundarbanpestcontrol.com/",
-    title: "Sundarban Pest Control",
-    subtitle: "This was designed and developed for a pest control company",
-  },
-
-  {
     href: "https://entanish.com/",
     title: "Entanish",
     subtitle:
       "A website of e-commerce focusing on ladies items like bag, shoe etc designed for client",
+  },
+  {
+    href: "https://sundarbanpestcontrol.com/",
+    title: "Sundarban Pest Control",
+    subtitle: "This was designed and developed for a pest control company",
+  },
+  {
+    href: "https://digitalb2bmarketing.com",
+    title: "Digital B2B Marketing",
+    subtitle:
+      "A website which provides Digital Services as well as Lead Generation, SEO",
   },
   {
     href: "http://ahchanel.com/",
